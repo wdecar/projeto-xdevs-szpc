@@ -1,0 +1,54 @@
+@media (max-width: 620px) {
+    .cabecalho {
+        padding: 30px 0 ;
+        
+    }
+    .personagem-slider {
+        padding:  0 15px;
+        gap: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .btn-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        
+          }
+    .lista-personagens {
+        height: 480px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+   @media(max-width:393px){
+        .cabecalho{
+          padding: 15px 0;  
+        }
+   }
+   .personagem-slider {
+    padding:  0 5px;
+    gap: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-seta {
+    width: 16px;
+    height: 16px;
+    padding: 16px;
+    
+      }
+
+ .lista-personagens {
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }               
+            
+    
+
