@@ -60,3 +60,11 @@ Este `README.md` fornece uma visão geral do projeto, descreve a estrutura dos a
 1. Clone este repositório em sua máquina local.
    ```sh
    git clone https://wdecar.github.io/projeto-xdevs-szpc/
+  Contato
+Para mais informações, entre em contato:
+
+Desenvolvedor: Edenilson do Carmo
+Email: gomeede@htmail.com
+LinkedIn: https://www.linkedin.com/in/edenilson-gomes-836a9a236/
+
+   
