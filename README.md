@@ -1,6 +1,6 @@
-# Projeto X-Devs - Semana do Zero ao Programador Contratado
+# Projeto X-Devs 
 
-Bem-vindo ao projeto X-Devs! Este projeto faz parte da Semana do Zero ao Programador Contratado e visa apresentar personagens fictícios do universo da programação, cada um com suas características únicas e histórias inspiradoras.
+Bem-vindo ao projeto X-Devs! Este projeto visa apresentar personagens fictícios do universo da programação, cada um com suas características únicas e histórias inspiradoras.
 
 ## Estrutura do Projeto
 
